@@ -11,7 +11,7 @@
 
 **3. .github 폴더 생성 후 해당 폴더 안에 PULL_REQUEST_TEMPLATE.md 파일을 만들고 해당 파일에 PR template를 지정해줍니다.**
 
-* 지금 이 repo에 있는 .github/PULL_REQUEST_TEMPLATE.md을 그대로 사용하시는 것을 추천드립니다!
+* 지금 이 repo에 있는 PULL_REQUEST_TEMPLATE.md을 그대로 사용하시는 것을 추천드립니다!
 
 ### 📍STEP 2 : 주차 별 과제 진행
 웹개발팀 노션에서 '겨울방학 과제 / 스터디 페이지' 안의 '보드 -> 과제 안내' 중 해당되는 주차에서 안내되어 있는 요구사항에 따라 개발을 진행합니다.
